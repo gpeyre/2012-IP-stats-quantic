@@ -1,0 +1,80 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+	First referee's report
+
+The article proposes a new estimator for the density matrix in quantum
+homodyne tomography in a framework of noisy data.
+The article has well-written introduction, which substantiates an
+importance of the article and explains its relation to the previous work.
+The convergence rate of the proposed estimator is proved mathematically
+and illustrated with numerical simulation.
+All the statements of the article are scientifically correct.
+I suggest to publish the article. I only found one misprint on the page 8,
+line 10: “W e define” should be “We define”
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+	Second referee's report
+
+The Authors analyze quantum homodyne tomography and propose a method
+for quantum state reconstruction under the hypothesis that the state
+to be reconstructed satisfies certain constraints on the absolute
+values of the number-state basis. The Authors provide analytic bounds
+on the convergence rate of the reconstruction and simulations of the
+reconstruction.
+
+The paper is nice and well written, although it is not immediately
+clear if it would be useful in practical situations, as a method for
+practical reconstructions. Moreover a few issues should be
+addressed. In particular:
+
+1) The Authors state that there is no closed-form expression for the
+pattern functions. This is incorrect, for example it seems to me that
+a closed form is given in Eq. (30) of [G. M. D'Ariano, Measuring
+Quantum States, in Quantum Optics and Spectroscopy of Solids, ed. by
+T. Hakioglu and A. S. Shumovsky, (Kluwer Academic Publisher, Amsterdam
+1997), page 175]. That is a review paper, so this result has certainly
+appeared elsewhere, possibly in Phys. Rev. A 52, 4899 (1995) or some
+other paper connected to that. I suggest that the Authors use the
+closed form expression for the pattern functions in their
+reconstructions.
+
+2) It is not clear how this method compares with the totally unbiased
+methods that are already available, such as the ones detailed in the
+above papers (which are also detailed in some of the papers presented
+in the bibliography). Since those other methods do not require any
+condition on the state to be reconstructed, the method presented here
+would be of interest only if the reconstruction converges more quickly
+than those. It is not at all clear it does: the bounds derived and the
+simulations presented seem to point to a rather slow convergence.
+
+3) It is curious that the simulations are performed with a very small
+number of data (between 10^4 and 10^6) whereas experimentally number
+of data much larger (typically 10^8 and easily more) are available. Is
+there some limitation of the method that prevents the simulations from
+running with a more realistic number of data?
+
+4) A minor point, in Fig. 4, it is not immediately clear what the
+dashed lines mean, as they are not referenced in the figure caption
+(in addition to the fact that it would be better not to use
+color-codes, as it becomes very confusing when the paper is printed in
+black-and-white). I suggest the figure to be amended.
+
+In conclusion, I suggest the Authors amend the paper to overcome the
+issues pointed out above before their paper can be published.
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+	Board Member's report
+
+The authors solve a very ill-posed inverse problem in quantum optics.
+Their goal is to reconstruct the density matrix of monochromatic light in
+a cavity modeled by a quantum oscillator. Much of the start of the article
+is devoted to describing the physical problem and related mathematics.
+Then, they describe the experiment and their mathematical results.
+
+The abstract and introduction are appropriately clear. The article seems
+well-written and it seems on the more experimental end of articles in
+Inverse Problems.

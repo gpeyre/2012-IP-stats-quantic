@@ -1,0 +1,1008 @@
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  24 APR 2013 22:13
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**adap_quantique4.tex
+(./adap_quantique4.tex
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for english, dumylang, nohyphenation, ge
+rman-x-2012-05-30, ngerman-x-2012-05-30, afrikaans, ancientgreek, ibycus, arabi
+c, armenian, basque, bulgarian, catalan, pinyin, coptic, croatian, czech, danis
+h, dutch, ukenglish, usenglishmax, esperanto, estonian, ethiopic, farsi, finnis
+h, french, friulan, galician, german, ngerman, swissgerman, monogreek, greek, h
+ungarian, icelandic, assamese, bengali, gujarati, hindi, kannada, malayalam, ma
+rathi, oriya, panjabi, tamil, telugu, indonesian, interlingua, irish, italian, 
+kurmanji, latin, latvian, lithuanian, mongolian, mongolianlmc, bokmal, nynorsk,
+ polish, portuguese, romanian, romansh, russian, sanskrit, serbian, serbianc, s
+lovak, slovenian, spanish, swedish, turkish, turkmen, ukrainian, uppersorbian, 
+welsh, loaded.
+(/usr/local/texlive/2012/texmf-dist/tex/latex/amscls/amsart.cls
+Document Class: amsart 2009/07/02 v2.20.1
+\linespacing=\dimen102
+\normalparindent=\dimen103
+\normaltopskip=\skip41
+(/usr/local/texlive/2012/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2000/07/18 v2.13 AMS math features
+\@mathmargin=\skip42
+
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2012/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01
+
+(/usr/local/texlive/2012/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks14
+\ex@=\dimen104
+))
+(/usr/local/texlive/2012/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen105
+)
+(/usr/local/texlive/2012/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count79
+LaTeX Info: Redefining \frac on input line 211.
+\uproot@=\count80
+\leftroot@=\count81
+LaTeX Info: Redefining \overline on input line 307.
+\classnum@=\count82
+\DOTSCASE@=\count83
+LaTeX Info: Redefining \ldots on input line 379.
+LaTeX Info: Redefining \dots on input line 382.
+LaTeX Info: Redefining \cdots on input line 467.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen106
+LaTeX Font Info:    Redeclaring font encoding OML on input line 567.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
+\macc@depth=\count84
+\c@MaxMatrixCols=\count85
+\dotsspace@=\muskip10
+\c@parentequation=\count86
+\dspbrk@lvl=\count87
+\tag@help=\toks15
+\row@=\count88
+\column@=\count89
+\maxfields@=\count90
+\andhelp@=\toks16
+\eqnshift@=\dimen107
+\alignsep@=\dimen108
+\tagshift@=\dimen109
+\tagwidth@=\dimen110
+\totwidth@=\dimen111
+\lineht@=\dimen112
+\@envbody=\toks17
+\multlinegap=\skip43
+\multlinetaggap=\skip44
+\mathdisplay@stack=\toks18
+LaTeX Info: Redefining \[ on input line 2666.
+LaTeX Info: Redefining \] on input line 2667.
+)
+LaTeX Font Info:    Try loading font information for U+msa on input line 388.
+
+(/usr/local/texlive/2012/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2009/06/22 v3.00 AMS symbols A
+)
+(/usr/local/texlive/2012/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2009/06/22 v3.00 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 96.
+)
+\copyins=\insert233
+\abstractbox=\box28
+\listisep=\skip45
+\c@part=\count91
+\c@section=\count92
+\c@subsection=\count93
+\c@subsubsection=\count94
+\c@paragraph=\count95
+\c@subparagraph=\count96
+\c@figure=\count97
+\c@table=\count98
+\abovecaptionskip=\skip46
+\belowcaptionskip=\skip47
+\captionindent=\dimen113
+\thm@style=\toks19
+\thm@bodyfont=\toks20
+\thm@headfont=\toks21
+\thm@notefont=\toks22
+\thm@headpunct=\toks23
+\thm@preskip=\skip48
+\thm@postskip=\skip49
+\thm@headsep=\skip50
+\dth@everypar=\toks24
+)
+(/usr/local/texlive/2012/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
+
+(/usr/local/texlive/2012/texmf-dist/tex/latex/base/t1enc.def
+File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 43.
+))
+(/usr/local/texlive/2012/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2009/06/22 v3.00
+)
+(/usr/local/texlive/2012/texmf-dist/tex/latex/doublestroke/dsfont.sty
+Package: dsfont 1995/08/01 v0.1 Double stroke roman fonts
+)
+(/usr/local/texlive/2012/texmf-dist/tex/latex/subfigure/subfigure.sty
+Package: subfigure 2002/03/15 v2.1.5 subfigure package
+\subfigtopskip=\skip51
+\subfigcapskip=\skip52
+\subfigcaptopadj=\dimen114
+\subfigbottomskip=\skip53
+\subfigcapmargin=\dimen115
+\subfiglabelskip=\skip54
+\c@subfigure=\count99
+\c@lofdepth=\count100
+\c@subtable=\count101
+\c@lotdepth=\count102
+
+****************************************
+* Local config file subfigure.cfg used *
+****************************************
+(/usr/local/texlive/2012/texmf-dist/tex/latex/subfigure/subfigure.cfg)
+\subfig@top=\skip55
+\subfig@bottom=\skip56
+)
+(/usr/local/texlive/2012/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2012/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks25
+)
+(/usr/local/texlive/2012/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2012/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/local/texlive/2012/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+(/usr/local/texlive/2012/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(/usr/local/texlive/2012/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+(/usr/local/texlive/2012/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count103
+))
+\Gin@req@height=\dimen116
+\Gin@req@width=\dimen117
+)
+(/usr/local/texlive/2012/texmf-dist/tex/latex/natbib/natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip57
+\bibsep=\skip58
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count104
+)
+(/usr/local/texlive/2012/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip11
+Package: url 2006/04/12  ver 3.3  Verb mode for urls, etc.
+)
+\c@theorem=\count105
+\c@lemma=\count106
+\c@cor=\count107
+\c@dfn=\count108
+\c@rmk=\count109
+\c@proposition=\count110
+
+(/usr/local/texlive/2012/texmf-dist/tex/latex/rotating/rotating.sty
+Package: rotating 2009/03/28 v2.16a rotated objects in LaTeX
+
+(/usr/local/texlive/2012/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\c@r@tfl@t=\count111
+\rotFPtop=\skip59
+\rotFPbot=\skip60
+\rot@float@box=\box29
+\rot@mess@toks=\toks26
+)
+(./adap_quantique4.aux)
+\openout1 = `adap_quantique4.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Try loading font information for U+msa on input line 59.
+
+(/usr/local/texlive/2012/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2009/06/22 v3.00 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 59.
+
+(/usr/local/texlive/2012/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2009/06/22 v3.00 AMS symbols B
+)
+(/usr/local/texlive/2012/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count112
+\scratchdimen=\dimen118
+\scratchbox=\box30
+\nofMPsegments=\count113
+\nofMParguments=\count114
+\everyMPshowfont=\toks27
+\MPscratchCnt=\count115
+\MPscratchDim=\dimen119
+\MPnumerator=\count116
+\makeMPintoPDFobject=\count117
+\everyMPtoPDFconversion=\toks28
+) (/usr/local/texlive/2012/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/local/texlive/2012/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+(/usr/local/texlive/2012/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/local/texlive/2012/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(/usr/local/texlive/2012/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+
+(/usr/local/texlive/2012/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+))
+(/usr/local/texlive/2012/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+
+(/usr/local/texlive/2012/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+
+(/usr/local/texlive/2012/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+
+(/usr/local/texlive/2012/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+(./adap_quantique4.toc)
+\tf@toc=\write3
+\openout3 = `adap_quantique4.toc'.
+
+ [1{/usr/local/texlive/2012/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+Underfull \hbox (badness 10000) in paragraph at lines 101--103
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 108--110
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 160--162
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 173--177
+
+ []
+
+[2]
+Underfull \hbox (badness 10000) in paragraph at lines 255--257
+
+ []
+
+[3]
+Underfull \hbox (badness 10000) in paragraph at lines 271--283
+
+ []
+
+Package epstopdf Info: Source file: <images/noisyQHTsetup.eps>
+(epstopdf)                    date: 2006-11-14 14:57:32
+(epstopdf)                    size: 60769 bytes
+(epstopdf)             Output file: <images/noisyQHTsetup-eps-converted-to.pdf>
+
+(epstopdf)                    date: 2012-03-06 16:00:42
+(epstopdf)                    size: 14082 bytes
+(epstopdf)             Command: <repstopdf --outfile=images/noisyQHTsetup-eps-c
+onverted-to.pdf images/noisyQHTsetup.eps>
+(epstopdf)             \includegraphics on input line 300.
+Package epstopdf Info: Output file is already uptodate.
+<images/noisyQHTsetup-eps-converted-to.pdf, id=38, 463.7325pt x 347.2975pt>
+File: images/noisyQHTsetup-eps-converted-to.pdf Graphic file (type pdf)
+
+<use images/noisyQHTsetup-eps-converted-to.pdf>
+Package pdftex.def Info: images/noisyQHTsetup-eps-converted-to.pdf used on inpu
+t line 300.
+(pdftex.def)             Requested size: 284.53218pt x 170.72308pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 315--317
+
+ []
+
+[4 <./images/noisyQHTsetup-eps-converted-to.pdf>]
+Underfull \hbox (badness 10000) in paragraph at lines 376--382
+
+ []
+
+[5]
+Underfull \hbox (badness 10000) in paragraph at lines 430--432
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 541--543
+
+ []
+
+[6]
+Underfull \hbox (badness 10000) in paragraph at lines 589--591
+
+ []
+
+[7]
+Underfull \hbox (badness 10000) in paragraph at lines 668--670
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 702--707
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 713--714
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 719--720
+
+ []
+
+[8]
+Underfull \hbox (badness 10000) in paragraph at lines 754--756
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 759--761
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 784--787
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 791--793
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 814--817
+
+ []
+
+[9] (./sec-numerics.tex
+Overfull \hbox (18.06708pt too wide) in paragraph at lines 12--58
+ [] 
+ []
+
+[10]
+Package epstopdf Info: Source file: <images/pattern.eps>
+(epstopdf)                    date: 2008-07-29 20:26:34
+(epstopdf)                    size: 31552 bytes
+(epstopdf)             Output file: <images/pattern-eps-converted-to.pdf>
+(epstopdf)                    date: 2012-06-15 14:23:50
+(epstopdf)                    size: 19630 bytes
+(epstopdf)             Command: <repstopdf --outfile=images/pattern-eps-convert
+ed-to.pdf images/pattern.eps>
+(epstopdf)             \includegraphics on input line 84.
+Package epstopdf Info: Output file is already uptodate.
+ <images/pattern-eps-converted-to.pdf, id=88, 421.575pt x 317.185pt>
+File: images/pattern-eps-converted-to.pdf Graphic file (type pdf)
+
+<use images/pattern-eps-converted-to.pdf>
+Package pdftex.def Info: images/pattern-eps-converted-to.pdf used on input line
+ 84.
+(pdftex.def)             Requested size: 176.40198pt x 132.72311pt.
+Package epstopdf Info: Source file: <images/patterneta.eps>
+(epstopdf)                    date: 2008-07-29 20:28:04
+(epstopdf)                    size: 31691 bytes
+(epstopdf)             Output file: <images/patterneta-eps-converted-to.pdf>
+(epstopdf)                    date: 2012-06-15 14:23:51
+(epstopdf)                    size: 19635 bytes
+(epstopdf)             Command: <repstopdf --outfile=images/patterneta-eps-conv
+erted-to.pdf images/patterneta.eps>
+(epstopdf)             \includegraphics on input line 85.
+Package epstopdf Info: Output file is already uptodate.
+
+<images/patterneta-eps-converted-to.pdf, id=89, 421.575pt x 317.185pt>
+File: images/patterneta-eps-converted-to.pdf Graphic file (type pdf)
+
+<use images/patterneta-eps-converted-to.pdf>
+Package pdftex.def Info: images/patterneta-eps-converted-to.pdf used on input l
+ine 85.
+(pdftex.def)             Requested size: 176.40198pt x 132.72311pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[11]
+LaTeX Font Info:    Try loading font information for T1+cmtt on input line 108.
+
+ (/usr/local/texlive/2012/texmf-dist/tex/latex/base/t1cmtt.fd
+File: t1cmtt.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+Package epstopdf Info: Source file: <results-rho/coherent/coherent-rho.eps>
+(epstopdf)                    date: 2012-12-21 12:42:35
+(epstopdf)                    size: 254301 bytes
+(epstopdf)             Output file: <results-rho/coherent/coherent-rho-eps-conv
+erted-to.pdf>
+(epstopdf)                    date: 2012-12-21 12:49:38
+(epstopdf)                    size: 43808 bytes
+(epstopdf)             Command: <repstopdf --outfile=results-rho/coherent/coher
+ent-rho-eps-converted-to.pdf results-rho/coherent/coherent-rho.eps>
+(epstopdf)             \includegraphics on input line 125.
+Package epstopdf Info: Output file is already uptodate.
+
+<results-rho/coherent/coherent-rho-eps-converted-to.pdf, id=94, 395.4775pt x 36
+2.35374pt>
+File: results-rho/coherent/coherent-rho-eps-converted-to.pdf Graphic file (type
+ pdf)
+ <use results-rho/coherent/coherent-rho-eps-converted-to.pdf>
+Package pdftex.def Info: results-rho/coherent/coherent-rho-eps-converted-to.pdf
+ used on input line 125.
+(pdftex.def)             Requested size: 115.20264pt x 105.55539pt.
+Package epstopdf Info: Source file: <results-rho/shrodinger-cat/shrodinger-cat-
+rho.eps>
+(epstopdf)                    date: 2012-12-21 12:40:36
+(epstopdf)                    size: 283569 bytes
+(epstopdf)             Output file: <results-rho/shrodinger-cat/shrodinger-cat-
+rho-eps-converted-to.pdf>
+(epstopdf)                    date: 2012-12-21 12:49:39
+(epstopdf)                    size: 38686 bytes
+(epstopdf)             Command: <repstopdf --outfile=results-rho/shrodinger-cat
+/shrodinger-cat-rho-eps-converted-to.pdf results-rho/shrodinger-cat/shrodinger-
+cat-rho.eps>
+(epstopdf)             \includegraphics on input line 125.
+Package epstopdf Info: Output file is already uptodate.
+
+<results-rho/shrodinger-cat/shrodinger-cat-rho-eps-converted-to.pdf, id=95, 395
+.4775pt x 362.35374pt>
+File: results-rho/shrodinger-cat/shrodinger-cat-rho-eps-converted-to.pdf Graphi
+c file (type pdf)
+
+<use results-rho/shrodinger-cat/shrodinger-cat-rho-eps-converted-to.pdf>
+Package pdftex.def Info: results-rho/shrodinger-cat/shrodinger-cat-rho-eps-conv
+erted-to.pdf used on input line 125.
+(pdftex.def)             Requested size: 115.20264pt x 105.55539pt.
+Package epstopdf Info: Source file: <results-rho/thermal/thermal-rho.eps>
+(epstopdf)                    date: 2012-12-21 12:42:01
+(epstopdf)                    size: 292503 bytes
+(epstopdf)             Output file: <results-rho/thermal/thermal-rho-eps-conver
+ted-to.pdf>
+(epstopdf)                    date: 2012-12-21 12:49:50
+(epstopdf)                    size: 37113 bytes
+(epstopdf)             Command: <repstopdf --outfile=results-rho/thermal/therma
+l-rho-eps-converted-to.pdf results-rho/thermal/thermal-rho.eps>
+(epstopdf)             \includegraphics on input line 125.
+Package epstopdf Info: Output file is already uptodate.
+
+<results-rho/thermal/thermal-rho-eps-converted-to.pdf, id=96, 395.4775pt x 362.
+35374pt>
+File: results-rho/thermal/thermal-rho-eps-converted-to.pdf Graphic file (type p
+df)
+ <use results-rho/thermal/thermal-rho-eps-converted-to.pdf>
+Package pdftex.def Info: results-rho/thermal/thermal-rho-eps-converted-to.pdf u
+sed on input line 125.
+(pdftex.def)             Requested size: 115.20264pt x 105.55539pt.
+Package epstopdf Info: Source file: <results-rho/coherent/b0-5/coherent-n10k.ep
+s>
+(epstopdf)                    date: 2012-12-21 12:42:26
+(epstopdf)                    size: 104952 bytes
+(epstopdf)             Output file: <results-rho/coherent/b0-5/coherent-n10k-ep
+s-converted-to.pdf>
+(epstopdf)                    date: 2012-12-21 12:50:15
+(epstopdf)                    size: 16424 bytes
+(epstopdf)             Command: <repstopdf --outfile=results-rho/coherent/b0-5/
+coherent-n10k-eps-converted-to.pdf results-rho/coherent/b0-5/coherent-n10k.eps>
+
+(epstopdf)             \includegraphics on input line 126.
+Package epstopdf Info: Output file is already uptodate.
+
+<results-rho/coherent/b0-5/coherent-n10k-eps-converted-to.pdf, id=97, 389.455pt
+ x 362.35374pt>
+File: results-rho/coherent/b0-5/coherent-n10k-eps-converted-to.pdf Graphic file
+ (type pdf)
+
+<use results-rho/coherent/b0-5/coherent-n10k-eps-converted-to.pdf>
+Package pdftex.def Info: results-rho/coherent/b0-5/coherent-n10k-eps-converted-
+to.pdf used on input line 126.
+(pdftex.def)             Requested size: 115.20264pt x 107.18094pt.
+Package epstopdf Info: Source file: <results-rho/shrodinger-cat/b0-5/shrodinger
+-cat-n10k.eps>
+(epstopdf)                    date: 2012-12-21 12:39:47
+(epstopdf)                    size: 108412 bytes
+(epstopdf)             Output file: <results-rho/shrodinger-cat/b0-5/shrodinger
+-cat-n10k-eps-converted-to.pdf>
+(epstopdf)                    date: 2012-12-21 12:50:15
+(epstopdf)                    size: 15685 bytes
+(epstopdf)             Command: <repstopdf --outfile=results-rho/shrodinger-cat
+/b0-5/shrodinger-cat-n10k-eps-converted-to.pdf results-rho/shrodinger-cat/b0-5/
+shrodinger-cat-n10k.eps>
+(epstopdf)             \includegraphics on input line 126.
+Package epstopdf Info: Output file is already uptodate.
+
+<results-rho/shrodinger-cat/b0-5/shrodinger-cat-n10k-eps-converted-to.pdf, id=9
+8, 389.455pt x 362.35374pt>
+File: results-rho/shrodinger-cat/b0-5/shrodinger-cat-n10k-eps-converted-to.pdf 
+Graphic file (type pdf)
+
+<use results-rho/shrodinger-cat/b0-5/shrodinger-cat-n10k-eps-converted-to.pdf>
+Package pdftex.def Info: results-rho/shrodinger-cat/b0-5/shrodinger-cat-n10k-ep
+s-converted-to.pdf used on input line 126.
+(pdftex.def)             Requested size: 115.20264pt x 107.18094pt.
+Package epstopdf Info: Source file: <results-rho/thermal/b0-5/thermal-n10k.eps>
+
+(epstopdf)                    date: 2012-12-21 12:42:15
+(epstopdf)                    size: 110706 bytes
+(epstopdf)             Output file: <results-rho/thermal/b0-5/thermal-n10k-eps-
+converted-to.pdf>
+(epstopdf)                    date: 2012-12-21 12:50:16
+(epstopdf)                    size: 15290 bytes
+(epstopdf)             Command: <repstopdf --outfile=results-rho/thermal/b0-5/t
+hermal-n10k-eps-converted-to.pdf results-rho/thermal/b0-5/thermal-n10k.eps>
+(epstopdf)             \includegraphics on input line 126.
+Package epstopdf Info: Output file is already uptodate.
+
+<results-rho/thermal/b0-5/thermal-n10k-eps-converted-to.pdf, id=99, 389.455pt x
+ 362.35374pt>
+File: results-rho/thermal/b0-5/thermal-n10k-eps-converted-to.pdf Graphic file (
+type pdf)
+ <use results-rho/thermal/b0-5/thermal-n10k-eps-converted-to.pdf>
+Package pdftex.def Info: results-rho/thermal/b0-5/thermal-n10k-eps-converted-to
+.pdf used on input line 126.
+(pdftex.def)             Requested size: 115.20264pt x 107.18094pt.
+Package epstopdf Info: Source file: <results-rho/coherent/b0-5/coherent-n100k.e
+ps>
+(epstopdf)                    date: 2012-12-21 12:42:27
+(epstopdf)                    size: 147675 bytes
+(epstopdf)             Output file: <results-rho/coherent/b0-5/coherent-n100k-e
+ps-converted-to.pdf>
+(epstopdf)                    date: 2012-12-21 13:06:45
+(epstopdf)                    size: 24139 bytes
+(epstopdf)             Command: <repstopdf --outfile=results-rho/coherent/b0-5/
+coherent-n100k-eps-converted-to.pdf results-rho/coherent/b0-5/coherent-n100k.ep
+s>
+(epstopdf)             \includegraphics on input line 127.
+Package epstopdf Info: Output file is already uptodate.
+
+<results-rho/coherent/b0-5/coherent-n100k-eps-converted-to.pdf, id=100, 392.466
+25pt x 362.35374pt>
+File: results-rho/coherent/b0-5/coherent-n100k-eps-converted-to.pdf Graphic fil
+e (type pdf)
+
+<use results-rho/coherent/b0-5/coherent-n100k-eps-converted-to.pdf>
+Package pdftex.def Info: results-rho/coherent/b0-5/coherent-n100k-eps-converted
+-to.pdf used on input line 127.
+(pdftex.def)             Requested size: 115.20264pt x 106.36263pt.
+Package epstopdf Info: Source file: <results-rho/shrodinger-cat/b0-5/shrodinger
+-cat-n100k.eps>
+(epstopdf)                    date: 2012-12-21 12:39:48
+(epstopdf)                    size: 157811 bytes
+(epstopdf)             Output file: <results-rho/shrodinger-cat/b0-5/shrodinger
+-cat-n100k-eps-converted-to.pdf>
+(epstopdf)                    date: 2012-12-21 13:06:45
+(epstopdf)                    size: 22144 bytes
+(epstopdf)             Command: <repstopdf --outfile=results-rho/shrodinger-cat
+/b0-5/shrodinger-cat-n100k-eps-converted-to.pdf results-rho/shrodinger-cat/b0-5
+/shrodinger-cat-n100k.eps>
+(epstopdf)             \includegraphics on input line 127.
+Package epstopdf Info: Output file is already uptodate.
+
+<results-rho/shrodinger-cat/b0-5/shrodinger-cat-n100k-eps-converted-to.pdf, id=
+101, 392.46625pt x 362.35374pt>
+File: results-rho/shrodinger-cat/b0-5/shrodinger-cat-n100k-eps-converted-to.pdf
+ Graphic file (type pdf)
+
+<use results-rho/shrodinger-cat/b0-5/shrodinger-cat-n100k-eps-converted-to.pdf>
+Package pdftex.def Info: results-rho/shrodinger-cat/b0-5/shrodinger-cat-n100k-e
+ps-converted-to.pdf used on input line 127.
+(pdftex.def)             Requested size: 115.20264pt x 106.36263pt.
+Package epstopdf Info: Source file: <results-rho/thermal/b0-5/thermal-n100k.eps
+>
+(epstopdf)                    date: 2012-12-21 12:42:16
+(epstopdf)                    size: 161733 bytes
+(epstopdf)             Output file: <results-rho/thermal/b0-5/thermal-n100k-eps
+-converted-to.pdf>
+(epstopdf)                    date: 2012-12-21 13:06:46
+(epstopdf)                    size: 21455 bytes
+(epstopdf)             Command: <repstopdf --outfile=results-rho/thermal/b0-5/t
+hermal-n100k-eps-converted-to.pdf results-rho/thermal/b0-5/thermal-n100k.eps>
+(epstopdf)             \includegraphics on input line 127.
+Package epstopdf Info: Output file is already uptodate.
+
+<results-rho/thermal/b0-5/thermal-n100k-eps-converted-to.pdf, id=102, 392.46625
+pt x 362.35374pt>
+File: results-rho/thermal/b0-5/thermal-n100k-eps-converted-to.pdf Graphic file 
+(type pdf)
+
+<use results-rho/thermal/b0-5/thermal-n100k-eps-converted-to.pdf>
+Package pdftex.def Info: results-rho/thermal/b0-5/thermal-n100k-eps-converted-t
+o.pdf used on input line 127.
+(pdftex.def)             Requested size: 115.20264pt x 106.36263pt.
+Package epstopdf Info: Source file: <results-rho/coherent/b0-5/coherent-n1000k.
+eps>
+(epstopdf)                    date: 2013-04-24 21:51:25
+(epstopdf)                    size: 201306 bytes
+(epstopdf)             Output file: <results-rho/coherent/b0-5/coherent-n1000k-
+eps-converted-to.pdf>
+(epstopdf)                    date: 2013-04-24 21:53:17
+(epstopdf)                    size: 32555 bytes
+(epstopdf)             Command: <repstopdf --outfile=results-rho/coherent/b0-5/
+coherent-n1000k-eps-converted-to.pdf results-rho/coherent/b0-5/coherent-n1000k.
+eps>
+(epstopdf)             \includegraphics on input line 128.
+Package epstopdf Info: Output file is already uptodate.
+
+<results-rho/coherent/b0-5/coherent-n1000k-eps-converted-to.pdf, id=103, 393.47
+pt x 362.35374pt>
+File: results-rho/coherent/b0-5/coherent-n1000k-eps-converted-to.pdf Graphic fi
+le (type pdf)
+
+<use results-rho/coherent/b0-5/coherent-n1000k-eps-converted-to.pdf>
+Package pdftex.def Info: results-rho/coherent/b0-5/coherent-n1000k-eps-converte
+d-to.pdf used on input line 128.
+(pdftex.def)             Requested size: 115.20264pt x 106.0917pt.
+Package epstopdf Info: Source file: <results-rho/shrodinger-cat/b0-5/shrodinger
+-cat-n1000k.eps>
+(epstopdf)                    date: 2013-04-24 21:51:50
+(epstopdf)                    size: 215918 bytes
+(epstopdf)             Output file: <results-rho/shrodinger-cat/b0-5/shrodinger
+-cat-n1000k-eps-converted-to.pdf>
+(epstopdf)                    date: 2013-04-24 21:53:17
+(epstopdf)                    size: 29936 bytes
+(epstopdf)             Command: <repstopdf --outfile=results-rho/shrodinger-cat
+/b0-5/shrodinger-cat-n1000k-eps-converted-to.pdf results-rho/shrodinger-cat/b0-
+5/shrodinger-cat-n1000k.eps>
+(epstopdf)             \includegraphics on input line 128.
+Package epstopdf Info: Output file is already uptodate.
+
+<results-rho/shrodinger-cat/b0-5/shrodinger-cat-n1000k-eps-converted-to.pdf, id
+=104, 393.47pt x 362.35374pt>
+File: results-rho/shrodinger-cat/b0-5/shrodinger-cat-n1000k-eps-converted-to.pd
+f Graphic file (type pdf)
+
+<use results-rho/shrodinger-cat/b0-5/shrodinger-cat-n1000k-eps-converted-to.pdf
+>
+Package pdftex.def Info: results-rho/shrodinger-cat/b0-5/shrodinger-cat-n1000k-
+eps-converted-to.pdf used on input line 128.
+(pdftex.def)             Requested size: 115.20264pt x 106.0917pt.
+Package epstopdf Info: Source file: <results-rho/thermal/b0-5/thermal-n1000k.ep
+s>
+(epstopdf)                    date: 2013-04-24 21:51:39
+(epstopdf)                    size: 221876 bytes
+(epstopdf)             Output file: <results-rho/thermal/b0-5/thermal-n1000k-ep
+s-converted-to.pdf>
+(epstopdf)                    date: 2013-04-24 21:53:18
+(epstopdf)                    size: 28755 bytes
+(epstopdf)             Command: <repstopdf --outfile=results-rho/thermal/b0-5/t
+hermal-n1000k-eps-converted-to.pdf results-rho/thermal/b0-5/thermal-n1000k.eps>
+
+(epstopdf)             \includegraphics on input line 128.
+Package epstopdf Info: Output file is already uptodate.
+
+<results-rho/thermal/b0-5/thermal-n1000k-eps-converted-to.pdf, id=105, 393.47pt
+ x 362.35374pt>
+File: results-rho/thermal/b0-5/thermal-n1000k-eps-converted-to.pdf Graphic file
+ (type pdf)
+
+<use results-rho/thermal/b0-5/thermal-n1000k-eps-converted-to.pdf>
+Package pdftex.def Info: results-rho/thermal/b0-5/thermal-n1000k-eps-converted-
+to.pdf used on input line 128.
+(pdftex.def)             Requested size: 115.20264pt x 106.0917pt.
+Package epstopdf Info: Source file: <results-rho/coherent/b0-5/coherent-n100000
+k.eps>
+(epstopdf)                    date: 2013-04-24 21:45:09
+(epstopdf)                    size: 382875 bytes
+(epstopdf)             Output file: <results-rho/coherent/b0-5/coherent-n100000
+k-eps-converted-to.pdf>
+(epstopdf)                    date: 2013-04-24 21:53:18
+(epstopdf)                    size: 58280 bytes
+(epstopdf)             Command: <repstopdf --outfile=results-rho/coherent/b0-5/
+coherent-n100000k-eps-converted-to.pdf results-rho/coherent/b0-5/coherent-n1000
+00k.eps>
+(epstopdf)             \includegraphics on input line 129.
+Package epstopdf Info: Output file is already uptodate.
+
+<results-rho/coherent/b0-5/coherent-n100000k-eps-converted-to.pdf, id=106, 396.
+48125pt x 362.35374pt>
+File: results-rho/coherent/b0-5/coherent-n100000k-eps-converted-to.pdf Graphic 
+file (type pdf)
+
+<use results-rho/coherent/b0-5/coherent-n100000k-eps-converted-to.pdf>
+Package pdftex.def Info: results-rho/coherent/b0-5/coherent-n100000k-eps-conver
+ted-to.pdf used on input line 129.
+(pdftex.def)             Requested size: 115.20264pt x 105.28447pt.
+Package epstopdf Info: Source file: <results-rho/shrodinger-cat/b0-5/shrodinger
+-cat-n100000k.eps>
+(epstopdf)                    date: 2013-04-23 18:51:26
+(epstopdf)                    size: 407148 bytes
+(epstopdf)             Output file: <results-rho/shrodinger-cat/b0-5/shrodinger
+-cat-n100000k-eps-converted-to.pdf>
+(epstopdf)                    date: 2013-04-24 19:15:20
+(epstopdf)                    size: 53666 bytes
+(epstopdf)             Command: <repstopdf --outfile=results-rho/shrodinger-cat
+/b0-5/shrodinger-cat-n100000k-eps-converted-to.pdf results-rho/shrodinger-cat/b
+0-5/shrodinger-cat-n100000k.eps>
+(epstopdf)             \includegraphics on input line 129.
+Package epstopdf Info: Output file is already uptodate.
+
+<results-rho/shrodinger-cat/b0-5/shrodinger-cat-n100000k-eps-converted-to.pdf, 
+id=107, 396.48125pt x 362.35374pt>
+File: results-rho/shrodinger-cat/b0-5/shrodinger-cat-n100000k-eps-converted-to.
+pdf Graphic file (type pdf)
+
+<use results-rho/shrodinger-cat/b0-5/shrodinger-cat-n100000k-eps-converted-to.p
+df>
+Package pdftex.def Info: results-rho/shrodinger-cat/b0-5/shrodinger-cat-n100000
+k-eps-converted-to.pdf used on input line 129.
+(pdftex.def)             Requested size: 115.20264pt x 105.28447pt.
+Package epstopdf Info: Source file: <results-rho/thermal/b0-5/thermal-n100000k.
+eps>
+(epstopdf)                    date: 2013-04-24 08:24:31
+(epstopdf)                    size: 417421 bytes
+(epstopdf)             Output file: <results-rho/thermal/b0-5/thermal-n100000k-
+eps-converted-to.pdf>
+(epstopdf)                    date: 2013-04-24 19:14:20
+(epstopdf)                    size: 51465 bytes
+(epstopdf)             Command: <repstopdf --outfile=results-rho/thermal/b0-5/t
+hermal-n100000k-eps-converted-to.pdf results-rho/thermal/b0-5/thermal-n100000k.
+eps>
+(epstopdf)             \includegraphics on input line 129.
+Package epstopdf Info: Output file is already uptodate.
+
+<results-rho/thermal/b0-5/thermal-n100000k-eps-converted-to.pdf, id=108, 396.48
+125pt x 362.35374pt>
+File: results-rho/thermal/b0-5/thermal-n100000k-eps-converted-to.pdf Graphic fi
+le (type pdf)
+
+<use results-rho/thermal/b0-5/thermal-n100000k-eps-converted-to.pdf>
+Package pdftex.def Info: results-rho/thermal/b0-5/thermal-n100000k-eps-converte
+d-to.pdf used on input line 129.
+(pdftex.def)             Requested size: 115.20264pt x 105.28447pt.
+
+Overfull \hbox (5.61624pt too wide) in paragraph at lines 124--139
+ [] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+Missing character: There is no   in font cmr10!
+Package epstopdf Info: Source file: <results-rmse/coherent-eta9-rmse.eps>
+(epstopdf)                    date: 2013-04-24 19:06:40
+(epstopdf)                    size: 10324 bytes
+(epstopdf)             Output file: <results-rmse/coherent-eta9-rmse-eps-conver
+ted-to.pdf>
+(epstopdf)                    date: 2013-04-24 19:10:56
+(epstopdf)                    size: 6285 bytes
+(epstopdf)             Command: <repstopdf --outfile=results-rmse/coherent-eta9
+-rmse-eps-converted-to.pdf results-rmse/coherent-eta9-rmse.eps>
+(epstopdf)             \includegraphics on input line 155.
+Package epstopdf Info: Output file is already uptodate.
+
+<results-rmse/coherent-eta9-rmse-eps-converted-to.pdf, id=109, 504.88625pt x 41
+6.55624pt>
+File: results-rmse/coherent-eta9-rmse-eps-converted-to.pdf Graphic file (type p
+df)
+ <use results-rmse/coherent-eta9-rmse-eps-converted-to.pdf>
+Package pdftex.def Info: results-rmse/coherent-eta9-rmse-eps-converted-to.pdf u
+sed on input line 155.
+(pdftex.def)             Requested size: 161.9989pt x 133.65666pt.
+Package epstopdf Info: Source file: <results-rmse/shrodinger-cat-eta9-rmse.eps>
+
+(epstopdf)                    date: 2013-04-24 19:07:38
+(epstopdf)                    size: 10242 bytes
+(epstopdf)             Output file: <results-rmse/shrodinger-cat-eta9-rmse-eps-
+converted-to.pdf>
+(epstopdf)                    date: 2013-04-24 19:10:57
+(epstopdf)                    size: 6251 bytes
+(epstopdf)             Command: <repstopdf --outfile=results-rmse/shrodinger-ca
+t-eta9-rmse-eps-converted-to.pdf results-rmse/shrodinger-cat-eta9-rmse.eps>
+(epstopdf)             \includegraphics on input line 156.
+Package epstopdf Info: Output file is already uptodate.
+
+<results-rmse/shrodinger-cat-eta9-rmse-eps-converted-to.pdf, id=110, 504.88625p
+t x 416.55624pt>
+File: results-rmse/shrodinger-cat-eta9-rmse-eps-converted-to.pdf Graphic file (
+type pdf)
+
+<use results-rmse/shrodinger-cat-eta9-rmse-eps-converted-to.pdf>
+Package pdftex.def Info: results-rmse/shrodinger-cat-eta9-rmse-eps-converted-to
+.pdf used on input line 156.
+(pdftex.def)             Requested size: 161.9989pt x 133.65666pt.
+Package epstopdf Info: Source file: <results-rmse/thermal-10-eta9-rmse.eps>
+(epstopdf)                    date: 2013-04-24 19:05:59
+(epstopdf)                    size: 10252 bytes
+(epstopdf)             Output file: <results-rmse/thermal-10-eta9-rmse-eps-conv
+erted-to.pdf>
+(epstopdf)                    date: 2013-04-24 19:10:57
+(epstopdf)                    size: 6424 bytes
+(epstopdf)             Command: <repstopdf --outfile=results-rmse/thermal-10-et
+a9-rmse-eps-converted-to.pdf results-rmse/thermal-10-eta9-rmse.eps>
+(epstopdf)             \includegraphics on input line 159.
+Package epstopdf Info: Output file is already uptodate.
+
+<results-rmse/thermal-10-eta9-rmse-eps-converted-to.pdf, id=111, 493.845pt x 41
+6.55624pt>
+File: results-rmse/thermal-10-eta9-rmse-eps-converted-to.pdf Graphic file (type
+ pdf)
+ <use results-rmse/thermal-10-eta9-rmse-eps-converted-to.pdf>
+Package pdftex.def Info: results-rmse/thermal-10-eta9-rmse-eps-converted-to.pdf
+ used on input line 159.
+(pdftex.def)             Requested size: 161.9989pt x 136.64404pt.
+Package epstopdf Info: Source file: <results-rmse/thermal-25-eta9-rmse.eps>
+(epstopdf)                    date: 2013-04-24 09:35:33
+(epstopdf)                    size: 10290 bytes
+(epstopdf)             Output file: <results-rmse/thermal-25-eta9-rmse-eps-conv
+erted-to.pdf>
+(epstopdf)                    date: 2013-04-24 19:10:58
+(epstopdf)                    size: 6284 bytes
+(epstopdf)             Command: <repstopdf --outfile=results-rmse/thermal-25-et
+a9-rmse-eps-converted-to.pdf results-rmse/thermal-25-eta9-rmse.eps>
+(epstopdf)             \includegraphics on input line 160.
+Package epstopdf Info: Output file is already uptodate.
+
+<results-rmse/thermal-25-eta9-rmse-eps-converted-to.pdf, id=112, 504.88625pt x 
+416.55624pt>
+File: results-rmse/thermal-25-eta9-rmse-eps-converted-to.pdf Graphic file (type
+ pdf)
+ <use results-rmse/thermal-25-eta9-rmse-eps-converted-to.pdf>
+Package pdftex.def Info: results-rmse/thermal-25-eta9-rmse-eps-converted-to.pdf
+ used on input line 160.
+(pdftex.def)             Requested size: 161.9989pt x 133.65666pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Overfull \hbox (4.52596pt too wide) in paragraph at lines 184--195
+ [] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+)
+Underfull \hbox (badness 10000) in paragraph at lines 920--923
+
+ []
+
+[12 <./images/pattern-eps-converted-to.pdf> <./images/patterneta-eps-converted-
+to.pdf>]
+
+LaTeX Warning: Text page 13 contains only floats.
+
+[13 <./results-rho/coherent/coherent-rho-eps-converted-to.pdf> <./results-rho/s
+hrodinger-cat/shrodinger-cat-rho-eps-converted-to.pdf> <./results-rho/thermal/t
+hermal-rho-eps-converted-to.pdf> <./results-rho/coherent/b0-5/coherent-n10k-eps
+-converted-to.pdf> <./results-rho/shrodinger-cat/b0-5/shrodinger-cat-n10k-eps-c
+onverted-to.pdf> <./results-rho/thermal/b0-5/thermal-n10k-eps-converted-to.pdf>
+ <./results-rho/coherent/b0-5/coherent-n100k-eps-converted-to.pdf> <./results-r
+ho/shrodinger-cat/b0-5/shrodinger-cat-n100k-eps-converted-to.pdf> <./results-rh
+o/thermal/b0-5/thermal-n100k-eps-converted-to.pdf> <./results-rho/coherent/b0-5
+/coherent-n1000k-eps-converted-to.pdf> <./results-rho/shrodinger-cat/b0-5/shrod
+inger-cat-n1000k-eps-converted-to.pdf> <./results-rho/thermal/b0-5/thermal-n100
+0k-eps-converted-to.pdf> <./results-rho/coherent/b0-5/coherent-n100000k-eps-con
+verted-to.pdf> <./results-rho/shrodinger-cat/b0-5/shrodinger-cat-n100000k-eps-c
+onverted-to.pdf> <./results-rho/thermal/b0-5/thermal-n100000k-eps-converted-to.
+pdf>]
+Underfull \hbox (badness 10000) in paragraph at lines 930--932
+
+ []
+
+[14 <./results-rmse/coherent-eta9-rmse-eps-converted-to.pdf> <./results-rmse/sh
+rodinger-cat-eta9-rmse-eps-converted-to.pdf> <./results-rmse/thermal-10-eta9-rm
+se-eps-converted-to.pdf> <./results-rmse/thermal-25-eta9-rmse-eps-converted-to.
+pdf>] [15] <images/dessin.pdf, id=194, 715.7107pt x 739.73508pt>
+File: images/dessin.pdf Graphic file (type pdf)
+
+<use images/dessin.pdf>
+Package pdftex.def Info: images/dessin.pdf used on input line 1067.
+(pdftex.def)             Requested size: 227.62204pt x 235.26398pt.
+ [16 <./images/dessin.pdf>]
+Underfull \hbox (badness 10000) in paragraph at lines 1148--1150
+
+ []
+
+[17] (./adap_quantique4.bbl [18]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [19])
+[20] (./adap_quantique4.aux) ) 
+Here is how much of TeX's memory you used:
+ 4155 strings out of 493488
+ 57091 string characters out of 3141326
+ 117605 words of memory out of 3000000
+ 7144 multiletter control sequences out of 15000+200000
+ 20572 words of font info for 54 fonts, out of 3000000 for 9000
+ 1118 hyphenation exceptions out of 8191
+ 38i,16n,32p,689b,340s stack positions out of 5000i,500n,10000p,200000b,50000s
+{/usr/local/texlive/2012/texmf-dist/fonts/enc/dvi
+ps/cm-super/cm-super-t1.enc}</usr/local/texlive/2012/texmf-dist/fonts/type1/pub
+lic/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/publ
+ic/amsfonts/cm/cmex10.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/publi
+c/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/public
+/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/public/
+amsfonts/cm/cmmi5.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/public/am
+sfonts/cm/cmmi6.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsf
+onts/cm/cmmi7.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfon
+ts/cm/cmmi8.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts
+/cm/cmr10.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/c
+m/cmr12.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/
+cmr5.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmr
+6.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.p
+fb></usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb>
+</usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><
+/usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb></u
+sr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr
+/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/l
+ocal/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/loc
+al/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr
+/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb><
+/usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm7.pf
+b></usr/local/texlive/2012/texmf-dist/fonts/type1/public/cm-super/sfbi1000.pfb>
+</usr/local/texlive/2012/texmf-dist/fonts/type1/public/cm-super/sfbx1000.pfb></
+usr/local/texlive/2012/texmf-dist/fonts/type1/public/cm-super/sfcc0800.pfb></us
+r/local/texlive/2012/texmf-dist/fonts/type1/public/cm-super/sfcc1000.pfb></usr/
+local/texlive/2012/texmf-dist/fonts/type1/public/cm-super/sfrm0600.pfb></usr/lo
+cal/texlive/2012/texmf-dist/fonts/type1/public/cm-super/sfrm0700.pfb></usr/loca
+l/texlive/2012/texmf-dist/fonts/type1/public/cm-super/sfrm0800.pfb></usr/local/
+texlive/2012/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb></usr/local/te
+xlive/2012/texmf-dist/fonts/type1/public/cm-super/sfti1000.pfb></usr/local/texl
+ive/2012/texmf-dist/fonts/type1/public/cm-super/sftt0800.pfb>
+Output written on adap_quantique4.pdf (20 pages, 1021551 bytes).
+PDF statistics:
+ 307 PDF objects out of 1000 (max. 8388607)
+ 220 compressed objects within 3 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 116 words of extra memory for PDF output out of 10000 (max. 10000000)
+

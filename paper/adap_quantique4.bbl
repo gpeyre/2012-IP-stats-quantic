@@ -1,0 +1,194 @@
+\begin{thebibliography}{OTBLG06}
+
+\bibitem[ABM09]{ABM}
+J.-M. Aubry, C.~Butucea, and K.~Meziani.
+\newblock State estimation in quantum homodyne tomography with noisy data.
+\newblock {\em Inverse Problems}, 25(1), 2009.
+
+\bibitem[AGG05]{Artiles&Gill&Guta}
+L.~Artiles, R.~Gill, and M.~Gu{\c{t}}{\u{a}}.
+\newblock An invitation to quantum tomography.
+\newblock {\em J. Royal Statist. Soc. B (Methodological)}, 67:109--134, 2005.
+\newblock MR{2136642}.
+
+\bibitem[Alq08a]{Alquier2008a}
+P.~Alquier.
+\newblock Iterative feature selection in least square regression estimation.
+\newblock {\em Annales de l'IHP - B (Probablity and Statistics)}, 44(1):47--88,
+  2008.
+
+\bibitem[Alq08b]{Alquier2008b}
+P.~Alquier.
+\newblock Lasso, iterative feature selection and the correlation selector:
+  Oracle inequalities and numerical performances.
+\newblock {\em Electronic Journal of Statistics}, 2:1129--1152, 2008.
+
+\bibitem[BDPS00]{BDPS}
+K.~Banaszek, G.~M. D'Ariano, M.~G.~A. Paris, and M.~F. Sacchi.
+\newblock Maximum-likelihood estimation of the density matrix.
+\newblock {\em Physical Review A}, 61(R10304), 2000.
+
+\bibitem[BNGJ03]{Barndorff-Nielsen&Gill&Jupp}
+O.~E. Barndorff-Nielsen, R.~Gill, and P.~E. Jupp.
+\newblock On quantum statistical inference (with discussion).
+\newblock {\em J. Royal Stat. Soc. B}, 65:775--816, 2003.
+
+\bibitem[Cai99]{cai}
+T.~Cai.
+\newblock Adaptive wavelet estimation: a block thresholding and oracle
+  inequality approach.
+\newblock {\em The Annals of Statistics}, 27:2607--2625, 1999.
+
+\bibitem[Cav11]{cava2}
+L.~Cavalier.
+\newblock Inverse problems in statistics.
+\newblock In P.~Alquier, E.~Gautier, and G.~Stoltz, editors, {\em Inverse
+  Problems and High-Dimensional Estimation}. Springer Lecture Notes in
+  Statistics, 2011.
+
+\bibitem[CGLT03]{cava1}
+L.~Cavalier, G.~Golubev, O.~Lepski, and A.~Tsybakov.
+\newblock Block thresholding and sharp adaptive estimation in severely
+  ill-posed inverse problems.
+\newblock {\em Theory of Probability and Applications}, 48:426--446, 2003.
+
+\bibitem[D'A95]{DAriano.1}
+G.~M. D'Ariano.
+\newblock Tomographic measurement of the density matrix of the radiation field.
+\newblock {\em Quantum Semiclass. Optics}, 7:693--704, 1995.
+
+\bibitem[D'A02]{DAriano.5}
+G.~M. D'Ariano.
+\newblock Tomographic methods for universal estimation in quantum optics.
+\newblock In {\em International School of Physics Enrico Fermi}, volume 148.
+  IOS Press, 2002.
+
+\bibitem[DJ94]{DJ94}
+D.~Donoho and I.~Johnstone.
+\newblock Ideal spatial adaptation via wavelet shrinkage.
+\newblock {\em Biometrika}, 81:425--455, 1994.
+
+\bibitem[DJ95]{DJ95}
+D.~Donoho and I.~Johnstone.
+\newblock Adapting to unknown smoothness via wavelet shrinkage.
+\newblock {\em Journal of the American Statistical Association}, 90:1200--1224,
+  1995.
+
+\bibitem[DJKP95]{DJKP}
+D.~Donoho, I.~Johnstone, G.~Kerkyacharian, and D.~Picard.
+\newblock Wavelet shrinkage: asymptotia?
+\newblock {\em Journal of the Royal Statistical Society B}, 57:301--369, 1995.
+
+\bibitem[DLP95]{DAriano.2}
+G.~M. D'Ariano, U.~Leonhardt, and H.~Paul.
+\newblock Homodyne detection of the density matrix of the radiation field.
+\newblock {\em Phys. Rev. A}, 52:R1801--R1804, 1995.
+
+\bibitem[DMP94]{DAriano.0}
+G.~M. D'Ariano, C.~Macchiavello, and M.~G.~A. Paris.
+\newblock Detection of the density matrix through optical homodyne tomography
+  without filtered back projection.
+\newblock {\em Phys. Rev. A}, 50:4298--4302, 1994.
+
+\bibitem[DMS05]{DMS}
+G.M. D'Ariano, L.~Maccone, and M.~F. Sacchi.
+\newblock Homodyne tomography and the reconstruction of quantum states of
+  light, 2005.
+
+\bibitem[Don95]{Dinv}
+D.~Donoho.
+\newblock Nonlinear solution of linear inverse problems by wavelet-vaguelette
+  decomposition.
+\newblock {\em Applied Computationnal Harmonic Analysis}, 2:101--126, 1995.
+
+\bibitem[DP99]{DP}
+G.~M. D'Ariano and M.~G.~A. Paris.
+\newblock Adaptive quantum tomography.
+\newblock {\em Physical Review A}, 60(518), 1999.
+
+\bibitem[Gu{\c{t}}07]{Guta}
+M.~I. Gu{\c{t}}{\u{a}}.
+\newblock Maximum likelihood estimation of the density matrix through quantum
+  tomography.
+\newblock Manuscript, 2007.
+
+\bibitem[Hel76]{Helstrom}
+C.~W. Helstrom.
+\newblock {\em Quantum Detection and Estimation Theory}.
+\newblock Academic Press, New York, 1976.
+
+\bibitem[HKPT98]{Tsybakov1998}
+W.~H\"{a}rdle, G.~Kerkyacharian, D.~Picard, and A.~Tsybakov.
+\newblock {\em Wavelets, approximation, and statistical applications}.
+\newblock Springer, 1998.
+
+\bibitem[Hol82]{Holevo}
+A.~S. Holevo.
+\newblock {\em Probabilistic and Statistical Aspects of Quantum Theory}.
+\newblock North-Holland, 1982.
+
+\bibitem[Joh99]{Dinv2}
+I.~Johnstone.
+\newblock Wavelet shrinkage for correlated data and inverse problems:
+  adaptivity results.
+\newblock {\em Statistica Sinica}, 9:51--83, 1999.
+
+\bibitem[Kol96]{kola}
+E.~Kolaczyk.
+\newblock A wavelet shrinkage approach to tomographic image reconstruction.
+\newblock {\em Journal of the American Statistical Association}, 91:1079--1090,
+  1996.
+
+\bibitem[Leo97]{Leonhardt}
+U.~Leonhardt.
+\newblock {\em Measuring the Quantum State of Light}.
+\newblock Cambridge University Press, 1997.
+
+\bibitem[LPD95]{DAriano.3}
+U.~Leonhardt, H.~Paul, and G.~M. D'Ariano.
+\newblock Tomographic reconstruction of the density matrix via pattern
+  functions.
+\newblock {\em Phys. Rev. A}, 52:4899--4907, 1995.
+
+\bibitem[Mez08]{Katia}
+K.~Meziani.
+\newblock Estimation non-param\'etrique en tomographie quantique homodyne.
+\newblock PhD thesis, Universit\'e Paris 7 (in English), 2008.
+
+\bibitem[OTBLG06]{Our}
+A.~Ourjoumtsev, R.~Tualle-Brouri, J.~Laurat, and P.~Grangier.
+\newblock Generating optical {S}chrödinger kittens for quantum information
+  processing.
+\newblock {\em Science}, 312(5770):83--86, 2006.
+
+\bibitem[Ric96]{Richter}
+T.~Richter.
+\newblock Pattern functions used in tomographic reconstruction of photon
+  statistics revisited.
+\newblock {\em Phys. Lett. A}, 211:327--330, 1996.
+
+\bibitem[Ric00]{Richter1}
+T.~Richter.
+\newblock Realistic pattern functions for optical homodyne tomography and
+  determination of specific expectation values.
+\newblock {\em Physical Review A}, 61(063819), 2000.
+
+\bibitem[SBRF93]{Smithey}
+D.~T. Smithey, M.~Beck, M.~G. Raymer, and A.~Faridani.
+\newblock Measurement of the {Wigner} distribution and the density matrix of a
+  light mode using optical homodyne tomography: Application to squeezed states
+  and the vacuum.
+\newblock {\em Phys. Rev. Lett.}, 70:1244--1247, 1993.
+
+\bibitem[VR89]{Vogel&Risken}
+K.~Vogel and H.~Risken.
+\newblock Determination of quasiprobability distributions in terms of
+  probability distributions for the rotated quadrature phase.
+\newblock {\em Phys. Rev. A}, 40:2847--2849, 1989.
+
+\bibitem[Wig32]{Wigner}
+E.~Wigner.
+\newblock On the quantum correction for thermodynamic equations.
+\newblock {\em Phys. Rev.}, 40:749--759, 1932.
+
+\end{thebibliography}

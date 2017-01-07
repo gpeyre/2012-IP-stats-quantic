@@ -1,0 +1,87 @@
+\documentclass[a4paper]{article}
+
+%\usepackage[active]{srcltx}
+\usepackage[T1]{fontenc}
+\usepackage{amssymb,amsmath}
+\usepackage{dsfont}
+\usepackage{url}
+%\newtheorem{thm}{Theorem}[section]
+%\newtheorem{prop}[thm]{Proposition}
+%\newtheorem{lemma}[thm]{Lemma}
+%\newtheorem{cor}[thm]{Corollary}
+%\theoremstyle{definition}
+%\newtheorem{dfn}{Definition}[section]
+%\newtheorem{cdtn}{Condition}[section]
+%\newtheorem{exm}{Example}[section]
+%\theoremstyle{remark}
+%\newtheorem{rmk}{Remark}[section]
+
+\title{Answer to the Referee's and the Board Member's report}
+\author{P. Alquier, K. Meziani and G. Peyr\'e}
+\date{}
+
+\begin{document}
+
+\maketitle
+
+First, we would like to thank both Referees and the Board Member
+for their careful reading of the paper and their useful comments.
+We address the points raised in the reports of the two Referees
+in details in this letter.
+
+\section*{Answer to the first Referee}
+
+We thank the first Referee for his positive comments on the paper.
+The misprint mentionned was corrected in this new version of the
+paper. (Katia, je te laisse corriger cette coquille dans le papier?)
+
+\section*{Answer to the second Referee}
+
+We thank the first Referee for his positive comments.
+Regardind the 4 issues raised by the Referee:
+\begin{enumerate}
+ \item (Katia, a toi de completer)??
+ \item To be fair, we read carefuly the reference provided by the Referee
+ [G. M. D'Ariano, Measuring
+Quantum States, in Quantum Optics and Spectroscopy of Solids, ed. by
+T. Hakioglu and A. S. Shumovsky, (Kluwer Academic Publisher, Amsterdam
+1997), page 175] and did not find any rate of convergence that can
+be compared to our results (Theorems 2.1 and 2.2). In [D'Ariano, 1997]
+it is proved that it is possible to estimate each coefficient of the density
+matrix, denoted $\rho_{j,k}$ in our paper, and thanks to the central limit theorem,
+they prove that the order of $\hat{\rho}_{j,k}-\rho_{j,k}$ is $1/\sqrt{n}$
+where $n$ is the number of observations (note that when we also estimate the
+order of $\hat{\rho}_{j,k}-\rho_{j,k}$ in our paper (Lemma 3), but using
+Hoeffding's inequality instead of the central limit theorem).
+
+However, our convergence results concern the norm
+$$ \|\hat{\rho} - \rho \|^2 = \sum_{j=0}^{\infty} \sum_{k=0}^{\infty}
+                            |\hat{\rho}_{j,k}-\rho_{j,k}|^2, $$
+so to upper-bound $\hat{\rho}_{j,k}-\rho_{j,k}$ by $1/\sqrt{n}$: it leads
+to a trivial $+\infty$ upper bound on $ \|\hat{\rho} - \rho \|^2 $.
+
+Our thresholding method allows to build an estimator of the density
+matrix $\tilde{\rho}$ such that
+$$ \|\tilde{\rho} - \rho \|^2 \xrightarrow[n\rightarrow\infty]{} 0,$$
+with rates given by Theorems 2.1 and 2.2. We did not find such a result
+in [D'Ariano, 1997]. Moreover, it is to be noted that [D'Ariano, 1997]
+claims that {\it the choice of the $k$-cutoff (...) should be done
+carefully as a function of the number of data}. This is perfectly correct,
+remark that our procedure is actually an implementation of this idea: we
+threshold the estimators $\hat{\rho}_{j,k}$ adaptively to the number of
+data {\it and} the regularity of the density matrix.
+
+ \item The Referee is right: using only $n \leq 10^6$ observations
+ could lead the reader to the erroneous conclusion that our method is
+ not able to deal with larger datasets. So, we included simulations with
+ $n=10^8$ observations, as recommended by the Referee.
+ The computation time of the algorithm scales linearly with the number $n$ of samples, which is the standard scaling for 
+ such a method. We remind the reviewer that our Matlab code is accessible online from the address: \\
+ \url{https://www.ceremade.dauphine.fr/~peyre/codes/}
+ 
+ 
+ \item The caption of the figure has been updated as suggested by the reviewer. 
+\end{enumerate}
+
+
+\end{document}
